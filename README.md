@@ -1,6 +1,6 @@
 - 👋 Hello there, my name is Antony 
-- 👀 I am a EECE student with a focus on IC and Microproccecors 
-- 🌱 I am currently learning SystemVerilog and Asembly 
+- 👀 I am a EECE student with a focus on PCB design and Analog Electronics
+- 🌱 I am currently learning greater depth on python and C++ integration 
 - 📫 You can communicate with me via email : a.georgiadis252@hotmail.com or via Discord in Mr.Antony #7452
 
 <!---
